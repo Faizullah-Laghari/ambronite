@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ambronite.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ambronite.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ambronite.com/collections/all-products-new.atom"/>
+  <title>Ambronite US</title>
+  <updated>2023-10-16T05:31:46-07:00</updated>
+  <author>
+    <name>Ambronite US</name>
+  </author>
+  <entry>
+    <id>https://ambronite.com/products/4798051876973</id>
+    <published>2023-10-16T05:31:46-07:00</published>
+    <updated>2023-10-16T05:31:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://ambronite.com/products/ambrogreens-new"/>
+    <title>AmbroGreens - Immunity, Nutritional Insurance and Craving Stopper</title>
+    <s:type></s:type>
+    <s:vendor>Ambronite US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0897/9776/products/ambrogreens_8de1869b-2c6b-4b92-ab61-20568f979144.jpg?v=1600083462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ambronite US<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            159.00 - 222.60
+            <a href="https://ambronite.com/products/ambrogreens-new">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Daily Immunity, Nutritional Insurance and Craving Stopper</strong><br><br><span data-mce-fragment="1">Boost <strong>immunity</strong>, increase<strong> daily energy</strong> and <strong>stop cravings </strong>immediately with AmbroGreens.<br><br><strong>Cover your daily needs</strong> for greens and veggies instantly with the easiest, tastiest and most powerful formula of wild berries, superfoods, herbs and greens. Mix with water and enjoy the<strong> incredibly fresh berry flavor</strong>, and fortify immunity, digestion and gut health. Ships immediately.<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-related-collection-all-products-new</s:tag>
+    <s:variant>
+      <id>https://ambronite.com/products/4798051876973</id>
+      <title>120 Servings</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>US-AG-new-120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798051876973</id>
+      <title>150 Servings</title>
+      <s:price currency="USD">186.80</s:price>
+      <s:sku>US-AG-new-150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798051876973</id>
+      <title>180 Servings</title>
+      <s:price currency="USD">209.90</s:price>
+      <s:sku>US-AG-new-180</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798051876973</id>
+      <title>210 Servings</title>
+      <s:price currency="USD">222.60</s:price>
+      <s:sku>US-AG-new-210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ambronite.com/products/4798057349229</id>
+    <published>2023-10-16T05:28:39-07:00</published>
+    <updated>2023-10-16T05:28:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://ambronite.com/products/complete-meal-shake-new"/>
+    <title>Complete Meal Shake</title>
+    <s:type></s:type>
+    <s:vendor>Ambronite US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0897/9776/products/Complete-Meal-Shake-Big-Bag-Original_30b534d0-ef90-41c2-8fde-c607e5b7208d.jpg?v=1600084741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ambronite US<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.10 - 597.90
+            <a href="https://ambronite.com/products/complete-meal-shake-new">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-mce-fragment="1">Cover all your nutritional bases, upgrade your health, fitness and immunity, and save time - simply. Ambronite Complete Meal Shake is the perfect tasty combination of complete proteins, lasting energy, plus greens and berries. Each meal shake gives your body everything it needs to thrive - from plant-based real foods.</span></p>
+<p><span data-mce-fragment="1"><br><strong data-mce-fragment="1"></strong></span><strong><span data-mce-fragment="1">👉 All flavors currently sold out</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-related-collection-all-products-new</s:tag>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>9 Bags (36 Meals) / Original</title>
+      <s:price currency="USD">269.10</s:price>
+      <s:sku>US-CMS-New-B-Ori-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>9 Bags (36 Meals) / Banana</title>
+      <s:price currency="USD">269.10</s:price>
+      <s:sku>US-CMS-New-B-Ban-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>9 Bags (36 Meals) / Berries</title>
+      <s:price currency="USD">269.10</s:price>
+      <s:sku>US-CMS-New-B-Ber-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>12 Bags (48 Meals) / Original</title>
+      <s:price currency="USD">343.80</s:price>
+      <s:sku>US-CMS-New-B-Ori-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>12 Bags (48 Meals) / Banana</title>
+      <s:price currency="USD">343.80</s:price>
+      <s:sku>US-CMS-New-B-Ban-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>12 Bags (48 Meals) / Berries</title>
+      <s:price currency="USD">343.80</s:price>
+      <s:sku>US-CMS-New-B-Ber-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>15 Bags (60 Meals) / Original</title>
+      <s:price currency="USD">411.10</s:price>
+      <s:sku>US-CMS-New-B-Ori-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>15 Bags (60 Meals) / Banana</title>
+      <s:price currency="USD">411.10</s:price>
+      <s:sku>US-CMS-New-B-Ban-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>15 Bags (60 Meals) / Berries</title>
+      <s:price currency="USD">411.10</s:price>
+      <s:sku>US-CMS-New-B-Ber-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>18 Bags (72 Meals) / Original</title>
+      <s:price currency="USD">470.90</s:price>
+      <s:sku>US-CMS-New-B-Ori-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>18 Bags (72 Meals) / Banana</title>
+      <s:price currency="USD">470.90</s:price>
+      <s:sku>US-CMS-New-B-Ban-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>18 Bags (72 Meals) / Berries</title>
+      <s:price currency="USD">470.90</s:price>
+      <s:sku>US-CMS-New-B-Ber-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>24 Bags (96 Meals) / Original</title>
+      <s:price currency="USD">597.90</s:price>
+      <s:sku>US-CMS-New-B-Ori-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>24 Bags (96 Meals) / Banana</title>
+      <s:price currency="USD">597.90</s:price>
+      <s:sku>US-CMS-New-B-Ban-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>24 Bags (96 Meals) / Berries</title>
+      <s:price currency="USD">597.90</s:price>
+      <s:sku>US-CMS-New-B-Ber-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>9 Bags (36 Meals) / All Flavors</title>
+      <s:price currency="USD">269.10</s:price>
+      <s:sku>US-CMS-New-B-All-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>12 Bags (48 Meals) / All Flavors</title>
+      <s:price currency="USD">343.80</s:price>
+      <s:sku>US-CMS-New-B-All-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>15 Bags (60 Meals) / All Flavors</title>
+      <s:price currency="USD">411.10</s:price>
+      <s:sku>US-CMS-New-B-All-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>18 Bags (72 Meals) / All Flavors</title>
+      <s:price currency="USD">470.90</s:price>
+      <s:sku>US-CMS-New-B-All-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798057349229</id>
+      <title>24 Bags (96 Meals) / All Flavors</title>
+      <s:price currency="USD">597.90</s:price>
+      <s:sku>US-CMS-New-B-All-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ambronite.com/products/4798054465645</id>
+    <published>2020-09-14T04:47:25-07:00</published>
+    <updated>2020-09-14T04:47:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://ambronite.com/products/keto-meal-shake-new"/>
+    <title>Keto Meal Shake</title>
+    <s:type></s:type>
+    <s:vendor>Ambronite US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0897/9776/products/Ambronite-Keto-Meal-Shake-Big-Bag-4-Meals_b44d82d4-46fa-4d46-a8d0-7572b57844bc.jpg?v=1600084155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ambronite US<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            182.00 - 499.20
+            <a href="https://ambronite.com/products/keto-meal-shake-new">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ambronite Keto Meal Shake delivers a full ketogenic meal that is guaranteed to speed up your keto benefits - burn fat while stopping cravings. Each meal quenches hunger for four hours and provides you with optimal macronutrient balance and a selection of essential micronutrients from real food sources - all this with a rich and satisfying chocolate flavor.</p>
+<h3><strong data-mce-fragment="1">NOTE: KETO MEAL SHAKE IS CURRENTLY OUT OF STOCK.</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-related-collection-all-products-new</s:tag>
+    <s:variant>
+      <id>https://ambronite.com/products/4798054465645</id>
+      <title>7 Bags (28 Meals) / Chocolate</title>
+      <s:price currency="USD">182.00</s:price>
+      <s:sku>US-KMS-New-Cho</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798054465645</id>
+      <title>9 Bags (36 Meals) / Chocolate</title>
+      <s:price currency="USD">224.60</s:price>
+      <s:sku>US-KMS-New-Cho-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798054465645</id>
+      <title>12 Bags (48 Meals) / Chocolate</title>
+      <s:price currency="USD">286.90</s:price>
+      <s:sku>US-KMS-New-Cho-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798054465645</id>
+      <title>15 Bags (60 Meals) / Chocolate</title>
+      <s:price currency="USD">343.20</s:price>
+      <s:sku>US-KMS-New-Cho-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798054465645</id>
+      <title>18 Bags (72 Meals) / Chocolate</title>
+      <s:price currency="USD">393.10</s:price>
+      <s:sku>US-KMS-New-Cho-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ambronite.com/products/4798054465645</id>
+      <title>24 Bags (96 Meals) / Chocolate</title>
+      <s:price currency="USD">499.20</s:price>
+      <s:sku>US-KMS-New-Cho-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

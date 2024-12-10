@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Dec 2024 10:59:48 at https://ambronite.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ambronite.com/ -O1 "C:\My Web Sites\ambronite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:00:51	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://sdk.vyrl.co/loader.js
+11:01:00	Error: 	"Not Found" (404) at link https://ambronite.com/POST (from https://ambronite.com/)
+11:01:00	Error: 	"Error when decompressing" (-1) at link https://ambronite.com/cdn (from https://ambronite.com/)
+11:01:00	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://ambronite.com/)
+11:05:18	Error: 	"Not Found" (404) at link https://ambronite.com/products/POST (from https://ambronite.com/products/keto-meal-shake-new)
+11:05:18	Error: 	"Not Found" (404) at link https://ambronite.com/pages/POST (from https://ambronite.com/pages/ambronite-story)
+11:06:04	Error: 	"Not Found" (404) at link https://ambronite.com/account/POST (from https://ambronite.com/account/login)
+11:06:04	Error: 	"Not Found" (404) at link https://ambronite.com/collections/POST (from https://ambronite.com/collections/all-products-new)
+11:06:15	Error: 	"Not Found" (404) at link https://ambronite.com/collections/all-products-new/products/POST (from https://ambronite.com/collections/all-products-new/products/ambrogreens-new)
+11:06:15	Error: 	"Not Found" (404) at link https://ambronite.com/pages/a (from https://connect.facebook.net/en_US/fbevents.js)
+11:06:15	Error: 	"Not Found" (404) at link https://ambronite.com/pages/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+11:06:15	Error: 	"Not Found" (404) at link https://ambronite.com/pages/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+11:06:15	Error: 	"Not Found" (404) at link https://ambronite.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 31 seconds : 386 links scanned, 373 files written (31129771 bytes overall) [23077209 bytes received at 59020 bytes/sec], 12781689 bytes transferred using HTTP compression in 134 files, ratio 23%, 10.1 requests per connection
+(12 errors, 1 warnings, 0 messages)

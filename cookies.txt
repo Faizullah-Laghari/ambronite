@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ambronite.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22PK%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%2231CD5161-cb74-4231-a0e8-26ce3c3e23b0%22%7D
+ambronite.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+ambronite.com	TRUE	/	FALSE	1999999999	_shopify_country	Pakistan
+ambronite.com	TRUE	/	FALSE	1999999999	localization	US
+www.dropbox.com	TRUE	/	FALSE	1999999999	gvc	Nzg0NzkwNTIwMjcwNTUzMjYxMDY0MzkxNDY0NDE5ODk3NDMxMjA=
+dropbox.com	TRUE	/	FALSE	1999999999	t	TVr9onJiLENJR_c2CaQwJglJ
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-js_csrf	TVr9onJiLENJR_c2CaQwJglJ
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-ss	DF2w1935hc
+dropbox.com	TRUE	/	FALSE	1999999999	locale	en
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-logged-out-session	ChBtOqVMrk7LUWcR1I1Ed49NEJCR2roGGi5BTG85dFd3cmh5THlveTNpS3RkdGZhXzFhM2RtRjhfR0NGeW9MZUNINE5rbEFR
+www.dropbox.com	TRUE	/	FALSE	1999999999	SameSite	None
+ambronite.com	TRUE	/	FALSE	1999999999	keep_alive	369c065b-a1eb-4cbe-bc8b-c6b004e18a3c
+ambronite.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+ambronite.com	TRUE	/	FALSE	1999999999	_shopify_y	fddfec98-0315-4b8f-9eb9-86399a88ed1e
+ambronite.com	TRUE	/	FALSE	1999999999	_shopify_s	22ca6e43-594d-4dfe-9ee6-dcefd00301da
+ambronite.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
